@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073948930027",
+    "project_id": "coread-app",
+    "storage_bucket": "coread-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073948930027:android:5378c194439558e7a6b3ae",
+        "android_client_info": {
+          "package_name": "com.example.mangaapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dER32XTsQaSCCM-aPDHpui7T9WMLGRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
